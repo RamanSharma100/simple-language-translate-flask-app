@@ -1,0 +1,9 @@
+.container-fluid {
+    height: 100vh;
+}
+
+#btn-voice {
+    position: fixed;
+    bottom: 80px;
+    right: 80px;
+}
